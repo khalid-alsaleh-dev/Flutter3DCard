@@ -24,6 +24,8 @@ soon will be hosted
   
 
 ## 🖼 Screenshots
+![Screenshot 2023-03-29 232157](https://user-images.githubusercontent.com/67127338/228658541-80520549-a1d2-4888-8544-5ea8b2ffba7f.png)
+![Screenshot 2023-03-29 232224](https://user-images.githubusercontent.com/67127338/228658691-3b9ff08a-ceea-4385-9831-c21ef2b944cd.png)
 
 
 ## 👨‍💻 Auther
